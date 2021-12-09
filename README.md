@@ -13,7 +13,7 @@ https://emmanuel687.github.io/PhotoGallery-Web-App/
 ## Support and contact details
 In case of any issues or alert,feel free to contact me via: E-mail: koechemmanuel2002@gmail.com Phone: +254-13598794
 ## Know bugs
-Login button not functional.
+Upload button not functional.
 Navbar on press not funtional.
 ### License
 *{See below for more details on licensing.}*
